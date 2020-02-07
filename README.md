@@ -11,7 +11,7 @@ This folder contains a set of scripts that can guide through common scenarios th
 
 This folder contains a set of scripts that cover a specific performance case troubleshooting, leveraging some newly introduced DMVs.
 The examples are based on the AdventureWorks database, but you can use personalize the scripts for your own data set easily. 
-You can also use the dataset in DWDemoScripts, [01_Create_And_Prepare_Database](./DWDEmoScripts/01_Create_And_Prepare_Database.sql).
+You can also use the dataset in DWDemoScripts, [01_Create_And_Prepare_Database](./DWDemoScripts/01_Create_And_Prepare_Database.sql).
 
 [dm_pdw_nodes_exec_sql_text](https://docs.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-pdw-nodes-exec-sql-text-transact-sql?view=azure-sqldw-latest)
 
